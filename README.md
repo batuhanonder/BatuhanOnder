@@ -20,8 +20,7 @@ I am a developer who is passionate about stuff like full-stack and data science.
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/batuhan_onderr) 
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@batuhanonderr)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/batuhanonderr/)
-[![Visits Badge](https://badges.pufler.dev/visits/pr2tik1/pr2tik1?style=for-the-badge)](https://github.com/BatuhanOnder/)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBatuhanOnder%2F&count_bg=%2379C83D&title_bg=%23555555&icon=grav.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/BatuhanOnder/)
 </p>
 
 </details>

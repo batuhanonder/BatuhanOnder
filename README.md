@@ -1,12 +1,29 @@
-<h1 align="center">Hi 👋, I'm Batuhan Onder</h1>
-<h3 align="center">A passionate full-stack developer from Turkey</h3>
+## Hi 👋 I am Batuhan! 
 
-- 📫 How to reach me **batuhanonderr@gmail.com**
+I am a developer who is passionate about stuff like full-stack and data science. Few tech that I enjoy working in are C#, Java, JavaScript, API, and  SQL. I am actively looking for opportunities in Data Science. Recently, I have just started with tech-blogging!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/batuhan_onderr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="batuhan_onderr" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/batuhanonderr/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="batuhanonderr" height="30" width="40" /></a>
+- 👨🏽‍💻 Currently working, learning and growing my skillset in Data Science, competitive coding, data structures and algorithms.
+- 🤝 Open for collaborations in algorithms, analytics and data science.
+- 😊 Willing to contribute in opensource development projects.
+- 👍 Looking for opportunities to join as an intern/full time in deep learning fields.
+- 🌐 Visit my [porfolio website](https://batuhanonder.github.io/) for complete background and contact. (Not ready yet.)
+
+<details open>
+<summary>🤝 <b>To connect with me</b></summary>
+<p align = "center">
+📫 batuhanonderr@gmail.com
+  </p>
+
+<p align = "center">
+ 
+[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://batuhanonder.github.io/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/batuhan_onderr) 
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@batuhanonderr)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/batuhanonderr/)
+[![Visits Badge](https://badges.pufler.dev/visits/pr2tik1/pr2tik1?style=for-the-badge)](https://github.com/BatuhanOnder/)
+
 </p>
 
+</details>
 
+---

@@ -1,4 +1,5 @@
-## Hi 👋 I am Batuhan! 
+## <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> I'm Batuhan</h1>
+<h3 align="center"> 
 
 I am a developer who is passionate about stuff like full-stack and data science. Few tech that I enjoy working in are C#, Java, JavaScript, API, and  SQL. I am actively looking for opportunities in Data Science. Recently, I have just started with tech-blogging!
 

@@ -7,7 +7,7 @@ I am a developer who is passionate about stuff like full-stack and data science.
 - 🤝 Open for collaborations in algorithms, analytics and data science.
 - 😊 Willing to contribute in opensource development projects.
 - 👍 Looking for opportunities to join as an intern/full time in deep learning fields.
-- 🌐 Visit my [porfolio website](https://batuhanonder.github.io/) for complete background and contact. (Not ready yet.)
+- 🌐 Visit my [porfolio website](https://kodbilimi.com/) for complete background and contact. (Not ready yet.)
 
 <details open>
 <summary>🤝 <b>To connect with me</b></summary>
